@@ -1,0 +1,6 @@
+version,operation,parameters
+0,WRITE,"{mode -> Append, partitionBy -> []}"
+1,WRITE,"{mode -> Append, partitionBy -> []}"
+2,WRITE,"{mode -> Append, partitionBy -> []}"
+3,DELETE,"{predicate -> ["(batch_date#14545 = 2026-10-02)"]}"
+4,WRITE,"{mode -> Append, partitionBy -> []}"

@@ -1,0 +1,6 @@
+version,operation,parameters
+0,WRITE,"{mode -> Overwrite, partitionBy -> [], predicate -> batch_date = DATE'2026-10-01'}"
+1,WRITE,"{mode -> Overwrite, partitionBy -> [], predicate -> batch_date = DATE'2026-10-02'}"
+2,WRITE,"{mode -> Overwrite, partitionBy -> [], predicate -> batch_date = DATE'2026-10-03'}"
+3,WRITE,"{mode -> Overwrite, partitionBy -> [], predicate -> batch_date = DATE'2026-10-02'}"
+4,WRITE,"{mode -> Overwrite, partitionBy -> [], predicate -> batch_date = DATE'2026-10-01'}"
