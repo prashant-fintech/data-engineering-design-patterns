@@ -1,0 +1,4 @@
+version,operation,parameters
+0,WRITE,"{mode -> Overwrite, partitionBy -> [], predicate -> txn_id IN ('T-01', 'T-02', 'T-03', 'T-04')}"
+1,WRITE,"{mode -> Overwrite, partitionBy -> [], predicate -> txn_id IN ('T-04', 'T-05', 'T-06', 'T-07', 'T-08')}"
+2,WRITE,"{mode -> Overwrite, partitionBy -> [], predicate -> txn_id IN ('T-09', 'T-07', 'T-08', 'T-10', 'T-11')}"

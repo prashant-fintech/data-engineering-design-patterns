@@ -14,6 +14,7 @@ look at the table between steps instead of trusting a final number.
 | Part | Post | Folder |
 |---|---|---|
 | 1 | [Idempotent loads](https://singhprashant.in/writing/data-engineering-design-patterns-01-idempotent-loads) | [`part-01-idempotent-loads`](part-01-idempotent-loads) |
+| 2 | [Incremental loads and watermarks](https://singhprashant.in/writing/data-engineering-design-patterns-02-incremental-loads-watermarks) | [`part-02-incremental-loads`](part-02-incremental-loads) |
 
 ## Reference
 
