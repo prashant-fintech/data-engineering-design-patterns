@@ -1,6 +1,6 @@
-# Part 2: incremental loads and watermarks
+# Part 2: Incremental Loads and Watermarks
 
-Companion code for [Data engineering design patterns, part 2](https://singhprashant.in/writing/data-engineering-design-patterns-02-incremental-loads-watermarks).
+Companion code for [Data Engineering Design Patterns: Incremental Loads and Watermarks](https://singhprashant.in/writing/data-engineering-design-patterns-02-incremental-loads-watermarks).
 
 A Postgres source table receives rows between three hourly runs. Each
 run copies the new rows into a target table, either from a watermark

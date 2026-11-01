@@ -1,6 +1,6 @@
-# Part 1: idempotent loads
+# Part 1: Idempotent Loads
 
-Companion code for [Data engineering design patterns, part 1](https://singhprashant.in/writing/data-engineering-design-patterns-01-idempotent-loads).
+Companion code for [Data Engineering Design Patterns: Idempotent Loads](https://singhprashant.in/writing/data-engineering-design-patterns-01-idempotent-loads).
 
 Three small daily batches are loaded into one fact table, then some of
 them are run again. Every load style in the post is run on Postgres and
