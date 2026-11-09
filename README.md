@@ -15,6 +15,7 @@ look at the table between steps instead of trusting a final number.
 |---|---|---|
 | 1 | [Idempotent Loads](https://singhprashant.in/writing/data-engineering-design-patterns-01-idempotent-loads) | [`part-01-idempotent-loads`](part-01-idempotent-loads) |
 | 2 | [Incremental Loads and Watermarks](https://singhprashant.in/writing/data-engineering-design-patterns-02-incremental-loads-watermarks) | [`part-02-incremental-loads`](part-02-incremental-loads) |
+| 3 | [Initial Load versus Daily Load](https://singhprashant.in/writing/data-engineering-design-patterns-03-initial-load-daily-load) | [`part-03-initial-load`](part-03-initial-load) |
 
 ## Licence
 

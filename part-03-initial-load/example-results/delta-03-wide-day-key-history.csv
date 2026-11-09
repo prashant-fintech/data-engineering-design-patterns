@@ -1,0 +1,9 @@
+version,operation,predicate,files_added,files_removed,rows_written
+0,WRITE,interval_start >= '2026-09-01 00:00:00' AND interval_start < '2026-09-30 00:00:00',1,,67
+1,WRITE,interval_start >= '2026-09-30 00:00:00' AND interval_start < '2026-10-01 00:00:00',1,0,5
+2,WRITE,interval_start >= '2026-10-01 00:00:00' AND interval_start < '2026-10-02 00:00:00',1,0,3
+3,WRITE,interval_start >= '2026-10-02 00:00:00' AND interval_start < '2026-10-03 00:00:00',1,0,3
+4,WRITE,interval_start >= '2026-10-03 00:00:00' AND interval_start < '2026-10-04 00:00:00',1,0,2
+5,WRITE,interval_start >= '2026-09-12 00:00:00' AND interval_start < '2026-09-13 00:00:00',2,1,67
+6,WRITE,interval_start >= '2026-09-01 00:00:00' AND interval_start < '2026-09-02 00:00:00',2,1,65
+7,WRITE,interval_start >= '2026-09-01 00:00:00' AND interval_start < '2026-10-04 00:00:00',1,7,80
